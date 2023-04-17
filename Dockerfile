@@ -1,4 +1,4 @@
-FROM lolhens/baseimage-openjre
+FROM adoptopenjdk/openjdk11:alpine-jre
 
 ADD target/springbootApp.jar springbootApp.jar
 
