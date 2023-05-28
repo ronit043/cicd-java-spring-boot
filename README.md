@@ -1,4 +1,4 @@
-# cicd-java-spring-boot
+# Complete CI/CD pileine
 
 • Designed a Java Spring Boot app.
 
